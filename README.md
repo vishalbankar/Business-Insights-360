@@ -15,6 +15,6 @@ For more info visit
 # For Complete Video Presentation Visit LinkedIn profile
 https://www.linkedin.com/posts/vishal-bankar-91866a26b_dataanalyst-businessanalyst-codebasics-activity-7125080813968179202-9Wjg?utm_source=share&utm_medium=member_desktop
 
-# Link for live Dashboard
+# Link of live Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiZmFjYjBmOGQtMmE0My00NTIyLTllYWItODI1YzY0ZjY1ZmY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
