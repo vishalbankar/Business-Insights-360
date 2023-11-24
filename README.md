@@ -7,7 +7,8 @@ In response to this issue, the company has taken the initiative to onboard a dat
 
 # Business Structure:
 Atliq Hardware has there business in different regions like APAC,NA,LATAM and EU and  have market in different markets.
-For more info visit 
-[Know more abot Atliq ]
+For more info visit    
+
+[To Know more abot Atliq click here]
 (https://github.com/vishalbankar/Business-Insights-360/blob/main/Atliq_hardware_PPT/Atliq_Hardware.pdf)
 
