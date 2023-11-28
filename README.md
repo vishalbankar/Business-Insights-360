@@ -9,8 +9,7 @@ In response to this issue, the company has taken the initiative to onboard a dat
 Atliq Hardware has there business in different regions like APAC,NA,LATAM and EU and  have market in different markets.
 For more info visit    
 
-[To Know more abot Atliq click here]
-(https://github.com/vishalbankar/Business-Insights-360/blob/main/Atliq_hardware_PPT/Atliq_Hardware.pdf)
+[To Know more abot Atliq click here](https://github.com/vishalbankar/Business-Insights-360/blob/main/Atliq_hardware_PPT/Atliq_Hardware.pdf)
 
 # For Complete Video Presentation Visit LinkedIn profile
 https://www.linkedin.com/posts/vishal-bankar-91866a26b_dataanalyst-businessanalyst-codebasics-activity-7125080813968179202-9Wjg?utm_source=share&utm_medium=member_desktop
